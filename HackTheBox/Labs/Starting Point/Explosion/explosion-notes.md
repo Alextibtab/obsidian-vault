@@ -17,7 +17,6 @@ Task 7: What is the name of the service running on port 3389 TCP? ms-wbt-server
 
 Task 8: What is the switch used to specify the target host's IP address when using xfreerdp? /v:
 
-obsidian://open?vault=Pentesting%20Box&file=HackTheBox%2FLabs%2FStarting%20Point%2FExplosion%2F%20explosionNmap.png
 ![[ explosionNmap.png]]
 #### 10.129.1.13
 
