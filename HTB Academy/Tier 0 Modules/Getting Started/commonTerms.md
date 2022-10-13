@@ -1,3 +1,8 @@
+---
+module_tier: 0
+module_name: Getting Started
+platform: HTB
+---
 # Common Terms
 ---
 Penetration testing/hacking is an enormous field. Encountering countless technologies throughout my career. This is a document containing the most common terms and technologies that I will need to have a firm grasp of.

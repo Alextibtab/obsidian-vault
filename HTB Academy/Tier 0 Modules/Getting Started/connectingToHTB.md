@@ -1,3 +1,8 @@
+---
+module_tier: 0
+module_name: Getting Started
+platform: HTB
+---
 # Connecting Using a VPN
 ---
 A virtual private network (VPN) allows a secure connection from a public network into a private (internal) network to access HTB hosts and resources. VPNs provide a degree of privacy and security by encrypting communications over the channel to prevent eavesdropping

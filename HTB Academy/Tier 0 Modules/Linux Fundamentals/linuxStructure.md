@@ -1,3 +1,8 @@
+---
+module_tier: 0
+module_name: Linux Fundamentals
+platform: HTB
+---
 # Linux Structure
 ---
 ## History

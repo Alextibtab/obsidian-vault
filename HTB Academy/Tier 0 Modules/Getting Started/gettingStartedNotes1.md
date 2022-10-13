@@ -1,3 +1,8 @@
+---
+module_tier: 0
+module_name: Getting Started
+platform: HTB
+---
 # Infosec Overview
 
 ---

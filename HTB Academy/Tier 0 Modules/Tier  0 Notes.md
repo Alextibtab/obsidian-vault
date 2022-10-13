@@ -1,3 +1,3 @@
 ```dataview
-LIST
+LIST 
 ```
