@@ -49,3 +49,6 @@ Information security is vast field including specializations such as;
 ---
 
 A security assessor (network penetration tester, web application tester, red teamer, etc.) helps an organisation identify risks in it's external and internal networks.
+
+up: [[Tier  0 Notes]]
+tags: #HTB #Tier_0 #Getting_Started 

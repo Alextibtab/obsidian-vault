@@ -25,4 +25,5 @@ list of useful linux commands
 | `lsusb`    | Lists USB devices                                                                     |
 | `lsof`     | Lists opened files                                                                    |
 | `lspci`    | Lists PCI devices.                                                                    | 
-
+up: [[Tier  0 Notes]]
+tags: #HTB #Tier_0 #Linux_Fundamentals 

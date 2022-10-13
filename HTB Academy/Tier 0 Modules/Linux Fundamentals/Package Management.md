@@ -14,4 +14,5 @@ platform: HTB
 | `gem`      | Gem is the front-end to RubyGems, the standard package manager for ruby                                                                      |
 | `pip`      | Python package manager                                                                                                                       |
 | `git`      | Git is a revision control system commonly used to store source code for application or tools for easier development                          | 
-
+up: [[Tier  0 Notes]]
+tags: #HTB #Tier_0 #Linux_Fundamentals 

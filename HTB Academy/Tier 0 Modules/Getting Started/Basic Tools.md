@@ -63,3 +63,5 @@ When in normal mode you can type `:` followed by characters to perform certain c
 | `:q!`   | Quit without saving  |
 | `:wq`   | Write and quit       | 
 
+up: [[Tier  0 Notes]]
+tags: #HTB #Tier_0 #Getting_Started 

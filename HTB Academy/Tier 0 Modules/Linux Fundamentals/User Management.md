@@ -17,4 +17,5 @@ Commands for user management:
 | `addgroup` | Adds a group to the system                                                                  |
 | `delgroup` | Removes a group from the system                                                             |
 | `passwd`   | Changes user password                                                                       | 
-
+up: [[Tier  0 Notes]]
+tags: #HTB #Tier_0 #Linux_Fundamentals 
