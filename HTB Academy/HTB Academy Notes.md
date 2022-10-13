@@ -1,5 +1,4 @@
 ```dataview
-TABLE WITHOUT ID
-	module_name as "Module"
-FLATTEN module_name
+TABLE "HTB" as "Platform"
+FROM #Tier_0 and #Collection 
 ```
