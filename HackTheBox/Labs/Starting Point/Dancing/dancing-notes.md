@@ -1,3 +1,7 @@
+---
+lab_type: [[Starting Point Labs]]
+platform: HTB
+---
 Machine Name: Dancing
 Machine IP: 10.129.1.12
 
@@ -32,3 +36,6 @@ Task 8: What is the command we can use within the SMB shell to download the file
 ![[dancingSMB2.png]]
 
 Root flag: 5f61c10dffbc77a704d76016a22f1664
+
+up: [[Starting Point Labs]]
+tags: #HTB #Starting_Point #Labs 

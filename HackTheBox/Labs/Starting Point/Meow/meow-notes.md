@@ -1,3 +1,7 @@
+---
+lab_type: [[Starting Point Labs]]
+platform: HTB
+---
 Machine Name: Meow
 Machine IP: 10.129.28.117
 
@@ -24,3 +28,6 @@ Task 6: What is the name of the tool we use to scan the target's ports? nmap
 ![[meowTelnet.png]]
 
 Root flag: b40abdfe23665f766f9c61ecba8a4c19
+
+up: [[Starting Point Labs]]
+tags: #HTB #Starting_Point #Labs 

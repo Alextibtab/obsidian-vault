@@ -1,3 +1,7 @@
+---
+lab_type: [[Starting Point Labs]]
+platform: HTB
+---
 Machine Name: Appointment
 Machine IP: 10.129.29.102
 
@@ -36,3 +40,6 @@ Task 11: What symbol do we use to comment out parts of the code? #
 ![[appointmentFlag.png]]
 
 Flag: e3d0796d002a446c0e622226f42e9672
+
+up: [[Starting Point Labs]]
+tags: #HTB #Starting_Point #Labs 

@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md",
-                "mode": "source",
+                "file": "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md",
+                "file": "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,15 +133,15 @@
   },
   "active": "eea0038f1f44b3b8",
   "lastOpenFiles": [
+    "HackTheBox/Labs/Lab Type.md",
     "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
+    "HackTheBox/Labs/Starting Point/Fawn/fawn-notes.md",
+    "HackTheBox/Labs/Starting Point/Appointment/appointment-notes.md",
+    "HackTheBox/Labs/Starting Point/Dancing/dancing-notes.md",
+    "HackTheBox/Labs/Starting Point/Explosion/explosion-notes.md",
+    "HackTheBox/Labs/Starting Point/Meow/meow-notes.md",
+    "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md",
     "Tools & Useful Things/VPN Connection Commands.md",
-    "Tools & Useful Things/Useful Commands.md",
-    "Tools & Useful Things/links.md",
-    "README.md",
-    "HTB Academy/HTB Modules.md",
-    "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
-    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
-    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md"
+    "Tools & Useful Things/Useful Commands.md"
   ]
 }
