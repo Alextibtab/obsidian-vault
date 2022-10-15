@@ -82,5 +82,5 @@ Many types of vulnerabilities can affect web applications. The OWASP Top 10 is a
 | 9.     | Security Logging and Monitoring Failures   | This category is to help detect, escalate, and respond to active breaches. Without logging and monitoring, breaches cannot be detected.                                                                                                                                                                                  |
 | 10.    | Server-Side Request Forgery                | SSRF flaws occur whenever a web application is fetching a remote resource without validating the user-supplied URL. It allows an attacker to coerce the application to send a crafted request to an unexpected destination, even when protected by a firewall, VPN, or another type of network access control list (ACL) | 
 
-up: [[Tier  0 Notes]]
+up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
 tags: #HTB #Tier_0 #Getting_Started 

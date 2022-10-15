@@ -13,5 +13,5 @@ HTB and other services offering purposefully vulnerable VMs/Networks require use
 
 ![[connectVPN.png]]
 
-up: [[Tier  0 Notes]]
+up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
 tags: #HTB #Tier_0 #Getting_Started 

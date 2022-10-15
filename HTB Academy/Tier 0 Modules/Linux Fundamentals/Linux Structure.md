@@ -62,5 +62,5 @@ Linux is available in over 600 distributions based on the Linux kernel. Linux is
 | `/usr`   | Contains executables, libraries, man files, etc.                                                                                                                                                                                                                                                                                 |
 | `/var`   | This directory contains variable data files such as log files etc.                                                                                                                                                                                                                                                               | 
 
-up: [[Tier  0 Notes]]
+up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
 tags: #HTB #Tier_0 #Linux_Fundamentals 

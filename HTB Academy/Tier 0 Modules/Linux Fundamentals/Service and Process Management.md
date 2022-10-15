@@ -6,5 +6,5 @@ platform: HTB
 # Service and Process Management
 ---
 
-up: [[Tier  0 Notes]]
+up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
 tags: #HTB #Tier_0 #Linux_Fundamentals 

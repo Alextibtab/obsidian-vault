@@ -1,0 +1,122 @@
+{
+  "main": {
+    "id": "b822618b2bf81069",
+    "type": "split",
+    "children": [
+      {
+        "id": "282bca5bf41a8adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f404d6d908b68d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB Academy/Tier 0 Modules/Tier  0 Notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "272a52cf3640024e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6ad892e999f6082",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a988a2f8db98b6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e3620e127857d76",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Tier_0",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c525798d6785336",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c9302a198114b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7feab783444157de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB Academy/Tier 0 Modules/Tier  0 Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "697f244cb49f0b94",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "f404d6d908b68d70",
+  "lastOpenFiles": [
+    "HTB Academy/Tier 0 Modules/Tier  0 Notes.md",
+    "HTB Academy/HTB Academy Notes.md",
+    "HackTheBox/Labs/Starting Point/Explosion/explosion-notes.md",
+    "HackTheBox/Labs/Starting Point/Explosion/explosionRDP.png",
+    "explosionNmap.png.md",
+    "HackTheBox/Labs/Starting Point/Explosion/ explosionNmap.png",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Linux Structure.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/System Information.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Service and Process Management.md"
+  ]
+}
