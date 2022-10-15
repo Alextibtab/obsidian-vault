@@ -1,3 +1,6 @@
+---
+platform: 
+---
 ```dataview
 LIST
 FROM "HTB Academy/Tier 0 Modules/Getting Started"
