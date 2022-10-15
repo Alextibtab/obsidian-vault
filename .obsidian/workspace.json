@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+                "file": "Tools & Useful Things/VPN Connection Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eea0038f1f44b3b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+                "file": "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +131,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f404d6d908b68d70",
+  "active": "eea0038f1f44b3b8",
   "lastOpenFiles": [
+    "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
+    "Tools & Useful Things/VPN Connection Commands.md",
+    "Tools & Useful Things/Useful Commands.md",
+    "Tools & Useful Things/links.md",
+    "README.md",
     "HTB Academy/HTB Modules.md",
-    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Linux Structure.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/linuxFileStructure.png",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Package Management.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Service and Process Management.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/System Information.md"
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
+    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md"
   ]
 }

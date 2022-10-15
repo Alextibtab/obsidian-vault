@@ -1,3 +1,7 @@
+---
+lab_type: [[Starting Point Labs]]
+platform: HTB
+---
 Machine Name: Preignition
 Machine IP: 10.129.29.95
 
@@ -28,3 +32,6 @@ Task 8: What is the status code reported by gobuster upon finding a successful p
 ![[preignitionGobuster.png]]
 
 Flag: 6483bee07c1c1d57f14e5b0717503c73
+
+up: [[Starting Point Labs]]
+tags: #HTB #Starting_Point #Labs 
