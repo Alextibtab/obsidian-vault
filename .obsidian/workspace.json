@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
+                "file": "Tools & Useful Things/VPN Connection Commands.md",
                 "mode": "preview",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
+                "file": "Tools & Useful Things/VPN Connection Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +133,8 @@
   },
   "active": "eea0038f1f44b3b8",
   "lastOpenFiles": [
-    "HackTheBox/Labs/Lab Type.md",
     "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
+    "HackTheBox/Labs/Lab Type.md",
     "HackTheBox/Labs/Starting Point/Fawn/fawn-notes.md",
     "HackTheBox/Labs/Starting Point/Appointment/appointment-notes.md",
     "HackTheBox/Labs/Starting Point/Dancing/dancing-notes.md",
