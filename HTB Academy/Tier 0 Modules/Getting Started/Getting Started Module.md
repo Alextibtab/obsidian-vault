@@ -1,5 +1,6 @@
 ```dataview
-LIST 
+LIST
+FROM "HTB Academy/Tier 0 Modules/Getting Started"
 ```
 
 Up: [[Tier 0 Modules]]
