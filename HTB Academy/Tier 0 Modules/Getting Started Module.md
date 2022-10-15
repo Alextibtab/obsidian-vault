@@ -1,10 +1,11 @@
 ---
-platform: 
+platform: HTB
+module_collection: [[Tier 0 Modules]]
 ---
 ```dataview
 LIST
-FROM "HTB Academy/Tier 0 Modules/Getting Started"
+FROM [[Getting Started Module]]
 ```
 
-Up: [[Tier 0 Modules]]
-Tags: #HTB #Tier_0 #Getting_Started 
+up: [[Tier 0 Modules]]
+tags: #HTB #Tier_0 #Getting_Started 

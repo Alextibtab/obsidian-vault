@@ -1,6 +1,10 @@
+---
+platform: HTB
+module_collection: [[Tier 0 Modules]]
+---
 ```dataview
 LIST
-FROM "HTB Academy/Tier 0 Modules/Linux Fundamentals"
+FROM [[Linux Fundamentals Module]]
 ```
 
 up: [[Tier 0 Modules]]
