@@ -1,6 +1,6 @@
 ---
 module_tier: 0
-module_name: Getting Started
+module_name: [[Getting Started Module]]
 platform: HTB
 ---
 # Connecting Using a VPN
@@ -13,5 +13,5 @@ HTB and other services offering purposefully vulnerable VMs/Networks require use
 
 ![[connectVPN.png]]
 
-up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
+up: [[Getting Started Module]]
 tags: #HTB #Tier_0 #Getting_Started 

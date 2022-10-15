@@ -1,6 +1,6 @@
 ---
 module_tier: 0
-module_name: Linux Fundamentals
+module_name: [[Linux Fundamentals Module]]
 platform: HTB
 ---
 # Package Management
@@ -14,5 +14,5 @@ platform: HTB
 | `gem`      | Gem is the front-end to RubyGems, the standard package manager for ruby                                                                      |
 | `pip`      | Python package manager                                                                                                                       |
 | `git`      | Git is a revision control system commonly used to store source code for application or tools for easier development                          | 
-up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
+up: [[Linux Fundamentals Module]]
 tags: #HTB #Tier_0 #Linux_Fundamentals 

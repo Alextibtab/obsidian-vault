@@ -1,6 +1,6 @@
 ---
 module_tier: 0
-module_name: Linux Fundamentals
+module_name: [[Linux Fundamentals Module]]
 platform: HTB
 ---
 # System Information
@@ -25,5 +25,5 @@ list of useful linux commands
 | `lsusb`    | Lists USB devices                                                                     |
 | `lsof`     | Lists opened files                                                                    |
 | `lspci`    | Lists PCI devices.                                                                    | 
-up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
+up: [[Linux Fundamentals Module]]
 tags: #HTB #Tier_0 #Linux_Fundamentals 

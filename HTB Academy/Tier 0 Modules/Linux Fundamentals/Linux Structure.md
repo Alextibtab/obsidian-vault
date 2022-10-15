@@ -1,6 +1,6 @@
 ---
 module_tier: 0
-module_name: Linux Fundamentals
+module_name: [[Linux Fundamentals Module]]
 platform: HTB
 ---
 # Linux Structure
@@ -62,5 +62,5 @@ Linux is available in over 600 distributions based on the Linux kernel. Linux is
 | `/usr`   | Contains executables, libraries, man files, etc.                                                                                                                                                                                                                                                                                 |
 | `/var`   | This directory contains variable data files such as log files etc.                                                                                                                                                                                                                                                               | 
 
-up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
+up: [[Linux Fundamentals Module]]
 tags: #HTB #Tier_0 #Linux_Fundamentals 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Tier  0 Notes.md",
+                "file": "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md",
                 "mode": "preview",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Tier  0 Notes.md",
+                "file": "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "f404d6d908b68d70",
   "lastOpenFiles": [
-    "HTB Academy/Tier 0 Modules/Tier  0 Notes.md",
-    "HTB Academy/HTB Academy Notes.md",
-    "HackTheBox/Labs/Starting Point/Explosion/explosion-notes.md",
-    "HackTheBox/Labs/Starting Point/Explosion/explosionRDP.png",
-    "explosionNmap.png.md",
-    "HackTheBox/Labs/Starting Point/Explosion/ explosionNmap.png",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Linux Structure.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md",
     "HTB Academy/Tier 0 Modules/Linux Fundamentals/System Information.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Service and Process Management.md"
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Service and Process Management.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Package Management.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/linuxFileStructure.png",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Linux Structure.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Linux Fundamentals Module.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Common Tools.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Connecting to HTB.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Getting Started Module.md",
+    "HTB Academy/Tier 0 Modules/Tier  0 Notes.md"
   ]
 }

@@ -1,6 +1,6 @@
 ---
 module_tier: 0
-module_name: Getting Started
+module_name: [[Getting Started Module]]
 platform: HTB
 ---
 # Basic Tools
@@ -63,5 +63,5 @@ When in normal mode you can type `:` followed by characters to perform certain c
 | `:q!`   | Quit without saving  |
 | `:wq`   | Write and quit       | 
 
-up: [[HTB Academy/Tier 0 Modules/#Tier  0 Notes]]
+up: [[Getting Started Module]]
 tags: #HTB #Tier_0 #Getting_Started 
