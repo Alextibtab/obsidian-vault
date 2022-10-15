@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
-                "mode": "preview",
+                "file": "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
+                "file": "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +108,15 @@
   },
   "active": "f404d6d908b68d70",
   "lastOpenFiles": [
-    "HTB Academy/Tier 0 Modules/Getting Started/Getting Started Module.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
     "HTB Academy/Tier 0 Modules/Getting Started/Infosec Overview.md",
     "HTB Academy/HTB Academy Notes.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md",
     "HTB Academy/Tier 0 Modules/Linux Fundamentals/System Information.md",
     "HTB Academy/Tier 0 Modules/Linux Fundamentals/Service and Process Management.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Package Management.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/linuxFileStructure.png",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Linux Structure.md"
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/Package Management.md"
   ]
 }
