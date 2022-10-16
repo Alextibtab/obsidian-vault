@@ -1,4 +1,5 @@
 ---
+thm_room: https://tryhackme.com/room/winadbasics
 platform: THM
 ---
 # Windows Active Directory Basics
@@ -57,5 +58,5 @@ Some default OUs are created by Windows automatically and contain the following:
 - **Security Groups**, on the other hand, are used to grant permissions over resources. For example, you will use groups if you want to allow some users to access a shared folder or networked printer. A user can be a part of many groups, which is needed to grant access to multiple resources.
 
 
-
+thm_room: https://tryhackme.com/room/winadbasics
 tags: #THM #Active_Directory 
