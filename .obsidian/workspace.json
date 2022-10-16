@@ -35,8 +35,12 @@
             "id": "b27bc3aa05b7b67c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +143,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "3a988a2f8db98b6e",
+  "active": "b27bc3aa05b7b67c",
   "lastOpenFiles": [
+    "TryHackMe/OWASP Juice Shop/Juice Shop.md",
     "Tools & Useful Things/VPN Connection Commands.md",
     "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
     "HackTheBox/Labs/Lab Type.md",
@@ -148,7 +154,6 @@
     "HackTheBox/Labs/Starting Point/Dancing/dancing-notes.md",
     "HackTheBox/Labs/Starting Point/Explosion/explosion-notes.md",
     "HackTheBox/Labs/Starting Point/Meow/meow-notes.md",
-    "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md",
-    "Tools & Useful Things/Useful Commands.md"
+    "HackTheBox/Labs/Starting Point/Preignition/preignition-notes.md"
   ]
 }
