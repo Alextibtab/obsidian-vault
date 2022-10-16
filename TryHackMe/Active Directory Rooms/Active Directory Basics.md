@@ -53,7 +53,9 @@ Some default OUs are created by Windows automatically and contain the following:
 - **Managed Service Accounts**: Holds accounts used by services in your Windows domain.
 
 ### Security Groups vs OUs
-- 
+- **OUs** are handy for applying policies to users and computers, which include specific configurations that pertain to sets of users depending on their particular role in the enterprise. A user can only be a member of a single OU at a time, as it wouldn't make sense to try to apply two different sets of policies to a single user.
+- **Security Groups**, on the other hand, are used to grant permissions over resources. For example, you will use groups if you want to allow some users to access a shared folder or networked printer. A user can be a part of many groups, which is needed to grant access to multiple resources.
+
 
 
 tags: #THM #Active_Directory 
