@@ -15,6 +15,11 @@ The core of any Windows Domain is the **Active Directory Domain Service (AD DS)*
 Users are one of the most common object types in Active Directory. Users are one of the objects known as **security principals**, meaning that they can be authenticated by the domain and can be assigned privileges over **resources** like files or printers. A security principal is an object that can act upon resources in the network.
 
 Users can be used to represent two types of entities:
-- **People**: users will generally represent persons in an organisation that need to access the network 
+- **People**: users will generally represent persons in an organisation that need to access the network like employees.
+- **Services**: you can also define users to be used by services like IIS or MSSQL. Every single service requires a user to run, but service users are different from regular users as they will only have privileges needed to run their specific service.
+
+### Machines
+
+
 
 tags: #THM #Active_Directory 
