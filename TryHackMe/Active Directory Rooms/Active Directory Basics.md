@@ -19,7 +19,14 @@ Users can be used to represent two types of entities:
 - **Services**: you can also define users to be used by services like IIS or MSSQL. Every single service requires a user to run, but service users are different from regular users as they will only have privileges needed to run their specific service.
 
 ### Machines
+Machines are another type of object within Active Directory; for every computer that joins the Active Directory domain, a machine object will be created. Machines are also considered "security principals" and are assigned an account just as any regular user. This account has somewhat limited rights within the domain itself.
 
+The machine accounts themselves are local administrators on the assigned computer, they are generally not supposed to be accessed by anyone except the computer itself, but as with any other account, if you have the password, you can use it to log in.
+
+Identifying machine accounts is relatively easy. They follow a specific naming scheme. The machine account name is the computer's name followed by a dollar sign. Example a machine with the hostname `DC01` will become `DC01$`
+
+### Security Groups
+if 
 
 
 tags: #THM #Active_Directory 
