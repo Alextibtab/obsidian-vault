@@ -26,7 +26,21 @@ The machine accounts themselves are local administrators on the assigned compute
 Identifying machine accounts is relatively easy. They follow a specific naming scheme. The machine account name is the computer's name followed by a dollar sign. Example a machine with the hostname `DC01` will become `DC01$`
 
 ### Security Groups
-if 
+Security groups are also considered security principals and, therefore can have privileges over resources on the network.
+
+Groups can have both users and machines as members, if needed groups can include other groups as well.
+
+Several groups are created by default in a domain that can be used to grant specific privileges to users.
+
+| Security Group     | Description |
+| ------------------ | ----------- |
+| Domain Admins      | Users of this group have administrative privileges over the entire domain. By default, they can administer any computer on the domain, including the DCs.            |
+| Server Operators   | Users in this group can administer Domain Controllers. They cannot change any administrative group memberships.            |
+| Backup Operators   | Users in this group are allowed to access any file, ignoring their permissions. They are used to perform backups of data on computers.            |
+| Account Operators  | Users in this group can create or modify other accounts in the domain.            |
+| Domain Users       | Includes all existing user accounts in the domain.            |
+| Domain Computers   | Includes all existing computers in the domain.            |
+| Domain Controllers | Includes all existing DCs on the domain.           |
 
 
 tags: #THM #Active_Directory 
