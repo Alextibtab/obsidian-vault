@@ -42,5 +42,18 @@ Several groups are created by default in a domain that can be used to grant spec
 | Domain Computers   | Includes all existing computers in the domain.            |
 | Domain Controllers | Includes all existing DCs on the domain.           |
 
+### Organisational Units
+In Windows domains, Organisational Unit (OU) refers to containers that hold users, groups and computers to which similar policies should apply. In most cases, OUs will match departments in an enterprise
+
+Some default OUs are created by Windows automatically and contain the following:
+- **Builtin**: Contains default groups available to any Windows host.
+- **Computers**: Any machine joining the network will be put here by default. You can move them if needed.
+- **Domain Controllers**: Default OU that contains the DCs in the network
+- **Users**: Default users and groups that apply to a domain-wide context.
+- **Managed Service Accounts**: Holds accounts used by services in your Windows domain.
+
+### Security Groups vs OUs
+- 
+
 
 tags: #THM #Active_Directory 
