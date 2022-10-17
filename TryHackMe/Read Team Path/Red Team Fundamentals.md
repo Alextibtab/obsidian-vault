@@ -12,5 +12,10 @@ A vulnerability assessment focuses on scanning hosts for vulnerabilities so that
 ## Penetration Tests
 On top of scanning every single host for vulnerabilities, we often need to understand how they impact the network as a whole. Penetration tests add to vulnerability assessments by allowing pentesters to explore the impact of an attacker on the overall network.
 - Attempt to exploit the vulnerabilities found on each system. This is important as sometimes a vulnerability might exist in a system but controls in place effectively prevent the exploitation
-- Conduct post exploitation tasks on any compromised hosts allowing
+- Conduct post exploitation tasks on any compromised hosts allowing us to find if we can extract any helpful information from them or if we can pivot further into the network.
+Penetration tests might start by scanning for vulnerabilities just as in a regular vulnerability assessment but provide further information on how an attacker could chain the found vulnerabilities to achieve specific goals.
+
+## Advanced Persistent Threats and why Regular Pentesting is not Enough
+While the conventional security engagements we have mentioned cover the finding of most technical vulnerabilities, there are limitations on such processes and the extent to which they can effectively prepare a company against a real attacker.
+- **Penetration tests are LOUD**: Usually, pentesters won't put much effort into trying to go undetected. Unlike real attackers, they don't mind being easy to detect, as they have been contracted to find as many vulnerabilities as they can 
 tags: #THM #Red_Team_Path
