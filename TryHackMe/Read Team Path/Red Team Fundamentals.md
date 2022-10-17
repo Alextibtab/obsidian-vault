@@ -20,4 +20,9 @@ While the conventional security engagements we have mentioned cover the finding 
 - **Penetration tests are LOUD**: Usually, pentesters won't put much effort into trying to go undetected. Unlike real attackers, they don't mind being easy to detect, as they have been contracted to find as many vulnerabilities as they can in as many hosts as possible
 - **Non-technical attack vectors might be overlooked**: Attacks based on social engineering or physical intrusions are usually not included in what is tested.
 - **Relaxation of security mechanisms**: While doing a regular penetration test some security mechanisms might be temporarily disabled or relaxed for the pentesting team  in favour of efficiency. While it might sound counter intuitive the pentesters have limited time to check the network and would rather focus on reviewing critical infrastructure rather than trying to bypass IDS/IPS
+
+## Red Team Engagements
+Red team engagements were designed to shift the focus from regular penetration tests into a process that allows us to clearly see the defensive team's capabilities at detecting and responding to a real threat actor. They don't replace traditional penetration tests, but complement them by focusing on detecting and response rather than prevention.
+
+Red teaming is a term borrowed from the military exercises, a group would take the role of a red team to simulate attack techniques 
 tags: #THM #Red_Team_Path
