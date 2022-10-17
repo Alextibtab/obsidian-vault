@@ -48,10 +48,13 @@ Depending on the resources available the red team exercise can be run in several
 | Blue Cell | The blue cell is the opposite side of red. It includes all the components defending a target network. The blue cell is typically comprised of blue team members, defenders, internal staff, and an organisation's management. |     
 | White Cell          |  Serves as referee between red cell activities and blue cell responses during an engagement. Controls the engagement environment/network. Monitors adherence to the ROE. Coordinates activities required to achieve engagement goals. Correlates red cell activities with defensive actions. Ensures the engagement is conducted without bias to either side.                                                                                                                                                                                                                             |     
 
+
+### Red Team Roles
 | Role | Purpose |
 | ---- | ------- |
 | Red Team Lead | Plans and organises engagements at a high level—delegates, assistant lead, and operators engagement assignments. |
-| Red Team Assistant Lead | Assists the team lead in overseeing engagement operations and operators. Can also assist in writing engagement plans and documentation if needed.
+| Red Team Assistant Lead | Assists the team lead in overseeing engagement operations and operators. Can also assist in writing engagement plans and documentation if needed.|
+|Red Team Operator |Executes assignments delegated by team leads. Interpret and analyse engagement plans from team leads. |
 
-Red Team Operator Executes assignments delegated by team leads. Interpret and analyse engagement plans from team leads.
+
 tags: #THM #Red_Team_Path
