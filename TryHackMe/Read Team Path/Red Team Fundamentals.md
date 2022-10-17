@@ -17,5 +17,7 @@ Penetration tests might start by scanning for vulnerabilities just as in a regul
 
 ## Advanced Persistent Threats and why Regular Pentesting is not Enough
 While the conventional security engagements we have mentioned cover the finding of most technical vulnerabilities, there are limitations on such processes and the extent to which they can effectively prepare a company against a real attacker.
-- **Penetration tests are LOUD**: Usually, pentesters won't put much effort into trying to go undetected. Unlike real attackers, they don't mind being easy to detect, as they have been contracted to find as many vulnerabilities as they can 
+- **Penetration tests are LOUD**: Usually, pentesters won't put much effort into trying to go undetected. Unlike real attackers, they don't mind being easy to detect, as they have been contracted to find as many vulnerabilities as they can in as many hosts as possible
+- **Non-technical attack vectors might be overlooked**: Attacks based on social engineering or physical intrusions are usually not included in what is tested.
+- **Relaxation of security mechanisms**: While doing a regular penetration test some security mechanisms might be temporarily disabled or relaxed for the pentesting team  in favour of efficiency. While it might sound counter intuitive the pentesters have limited time to check the network and would rather focus on reviewing critical infrastructure rather than trying to bypass IDS/IPS
 tags: #THM #Red_Team_Path
