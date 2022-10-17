@@ -24,5 +24,13 @@ While the conventional security engagements we have mentioned cover the finding 
 ## Red Team Engagements
 Red team engagements were designed to shift the focus from regular penetration tests into a process that allows us to clearly see the defensive team's capabilities at detecting and responding to a real threat actor. They don't replace traditional penetration tests, but complement them by focusing on detecting and response rather than prevention.
 
-Red teaming is a term borrowed from the military exercises, a group would take the role of a red team to simulate attack techniques 
+Red teaming is a term borrowed from the military exercises, a group would take the role of a red team to simulate attack techniques to test the reaction capabilities of a defending team, generally known as blue team.
+
+Red team engagements consist of emulating a real threat actor's **Tactics, Techniques and Procedures (TTPs)** so that we can measure how well the blue team responds to them and ultimately improve any security controls in place.
+
+Every red team engagement will start by defining clear goals often references as **crown jewels** or **flags** ranging from compromising a given critical host to stealing some sensitive information from the target. Usually, the blue team won't be informed of such an exercise to avoid introducing any biases in their analysis.
+
+Red team engagements also consider other attack surfaces:
+- **Technical Infrastructure**: red team will try to uncover technical vulnerabilities with a much higher emphasis on stealth and evasion.
+- **Social Engineering**: Targeting people through phishing campaigns, phone calls or social media to trick them into revelaing info
 tags: #THM #Red_Team_Path
