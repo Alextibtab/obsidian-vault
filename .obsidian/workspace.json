@@ -44,14 +44,6 @@
             }
           },
           {
-            "id": "9b170b0ce9eb9374",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "ab25999bb76d4247",
             "type": "leaf",
             "state": {
@@ -64,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +143,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9b170b0ce9eb9374",
+  "active": "b27bc3aa05b7b67c",
   "lastOpenFiles": [
     "TryHackMe/Read Team Path/Red Team Fundamentals.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
