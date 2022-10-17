@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
-                "mode": "preview",
+                "file": "TryHackMe/Read Team Path/Red Team Fundamentals.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
+                "file": "TryHackMe/Read Team Path/Red Team Fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,8 +145,8 @@
   },
   "active": "b27bc3aa05b7b67c",
   "lastOpenFiles": [
-    "TryHackMe/Read Team Path/Red Team Fundamentals.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
+    "TryHackMe/Read Team Path/Red Team Fundamentals.md",
     "TryHackMe/OWASP Juice Shop/Juice Shop.md",
     "Tools & Useful Things/VPN Connection Commands.md",
     "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
