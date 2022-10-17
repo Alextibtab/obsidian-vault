@@ -32,5 +32,11 @@ Every red team engagement will start by defining clear goals often references as
 
 Red team engagements also consider other attack surfaces:
 - **Technical Infrastructure**: red team will try to uncover technical vulnerabilities with a much higher emphasis on stealth and evasion.
-- **Social Engineering**: Targeting people through phishing campaigns, phone calls or social media to trick them into revelaing info
+- **Social Engineering**: Targeting people through phishing campaigns, phone calls or social media to trick them into revealing information that should be private.
+- **Physical Intrusion**: Using technologies like lockpicking, RFID cloning, exploiting weaknesses in electronic access devices to restricted areas of facilities.
+
+Depending on the resources available the red team exercise can be run in several ways:
+- **Full Engagement**: Simulate an attackers full workflow from initial compromise until final goals have been achieved.
+- **Assumed Breach**: Start by assuming the attacker has already gained access over some of the hosts and achieve goals from there. As an example the red team could receive some user creds to give them an initial foothold.
+- **Table-top Exercise**: An over the table simulation where scenarios are discussed between the red and blue teams to evaluate how they would theoretically respond to certain threats.
 tags: #THM #Red_Team_Path
