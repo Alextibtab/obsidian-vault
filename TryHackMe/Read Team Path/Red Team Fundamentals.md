@@ -39,4 +39,19 @@ Depending on the resources available the red team exercise can be run in several
 - **Full Engagement**: Simulate an attackers full workflow from initial compromise until final goals have been achieved.
 - **Assumed Breach**: Start by assuming the attacker has already gained access over some of the hosts and achieve goals from there. As an example the red team could receive some user creds to give them an initial foothold.
 - **Table-top Exercise**: An over the table simulation where scenarios are discussed between the red and blue teams to evaluate how they would theoretically respond to certain threats.
+
+
+### Team Definitions
+| Team      | Definition                                                                                                                                                                                                                    | 
+| --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Red Cell  | A red cell is the component that makes up the offensive portion of a red team engagement that simulates a given target's strategic and tactical responses.                                                                    |     
+| Blue Cell | The blue cell is the opposite side of red. It includes all the components defending a target network. The blue cell is typically comprised of blue team members, defenders, internal staff, and an organisation's management. |     
+| White Cell          |  Serves as referee between red cell activities and blue cell responses during an engagement. Controls the engagement environment/network. Monitors adherence to the ROE. Coordinates activities required to achieve engagement goals. Correlates red cell activities with defensive actions. Ensures the engagement is conducted without bias to either side.                                                                                                                                                                                                                             |     
+
+| Role | Purpose |
+| ---- | ------- |
+| Red Team Lead | Plans and organises engagements at a high level—delegates, assistant lead, and operators engagement assignments. |
+| Red Team Assistant Lead | Assists the team lead in overseeing engagement operations and operators. Can also assist in writing engagement plans and documentation if needed.
+
+Red Team Operator Executes assignments delegated by team leads. Interpret and analyse engagement plans from team leads.
 tags: #THM #Red_Team_Path
