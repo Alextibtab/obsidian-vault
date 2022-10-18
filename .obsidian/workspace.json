@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools & Useful Things/tmux-learning.md",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7fcf2a3267812d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "691f2e24358bafa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools & Useful Things/tmux-learning.md",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools & Useful Things/tmux-learning.md",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,17 +179,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b27bc3aa05b7b67c",
+  "active": "691f2e24358bafa7",
   "lastOpenFiles": [
+    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
     "Tools & Useful Things/links.md",
     "Tools & Useful Things/Useful Commands.md",
-    "Tools & Useful Things/tmux-learning.md",
     "TryHackMe/Read Team Path/Red Team Fundamentals.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "TryHackMe/OWASP Juice Shop/Juice Shop.md",
     "Tools & Useful Things/VPN Connection Commands.md",
-    "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
-    "HackTheBox/Labs/Lab Type.md",
-    "HackTheBox/Labs/Starting Point/Fawn/fawn-notes.md"
+    "HackTheBox/Labs/Starting Point/Starting Point Labs.md"
   ]
 }
