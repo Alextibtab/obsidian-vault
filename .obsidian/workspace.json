@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "5adee6bbded48c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "7479fa63de34c908",
+  "active": "5adee6bbded48c06",
   "lastOpenFiles": [
     "HTB Academy/HTB Modules.md",
     "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
