@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,8 +181,8 @@
   },
   "active": "691f2e24358bafa7",
   "lastOpenFiles": [
-    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
     "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
     "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
     "Tools & Useful Things/links.md",
     "Tools & Useful Things/Useful Commands.md",
