@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "3ee623c85aa14670",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools & Useful Things/tmux-learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ab25999bb76d4247",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Read Team Path/Red Team Fundamentals.md",
+                "file": "Tools & Useful Things/tmux-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,10 +155,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b27bc3aa05b7b67c",
+  "active": "3ee623c85aa14670",
   "lastOpenFiles": [
-    "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "TryHackMe/Read Team Path/Red Team Fundamentals.md",
+    "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "TryHackMe/OWASP Juice Shop/Juice Shop.md",
     "Tools & Useful Things/VPN Connection Commands.md",
     "HackTheBox/Labs/Starting Point/Starting Point Labs.md",
