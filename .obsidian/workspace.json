@@ -61,6 +61,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13eea8ede52be1bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
                 "mode": "source",
                 "source": false
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -179,17 +191,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "691f2e24358bafa7",
+  "active": "13eea8ede52be1bd",
   "lastOpenFiles": [
     "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
     "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/zshrc configuration.md",
     "Tools & Useful Things/links.md",
     "Tools & Useful Things/Useful Commands.md",
     "TryHackMe/Read Team Path/Red Team Fundamentals.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "TryHackMe/OWASP Juice Shop/Juice Shop.md",
-    "Tools & Useful Things/VPN Connection Commands.md",
-    "HackTheBox/Labs/Starting Point/Starting Point Labs.md"
+    "Tools & Useful Things/VPN Connection Commands.md"
   ]
 }
