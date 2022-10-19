@@ -34,7 +34,7 @@
               "type": "markdown",
               "state": {
                 "file": "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -129,15 +129,15 @@
   },
   "active": "9ecf034e019d9880",
   "lastOpenFiles": [
+    "TryHackMe/Rooms/Chocolate Factory/chocolateFactorySite.png",
+    "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
     "Tools & Useful Things/Useful Commands.md",
     "Tools & Useful Things/VPN Connection Commands.md",
     "HackTheBox/Labs/Starting Point/Appointment/appointment-notes.md",
     "HackTheBox/Labs/Lab Type.md",
-    "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
     "HTB Academy/HTB Modules.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md"
+    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md"
   ]
 }

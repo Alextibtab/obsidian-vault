@@ -7,6 +7,9 @@ platform: THM
 
 ## NMAP Scan
 
+```bash
+sudo nmap -sS -sV -O -p- 10.10.40.128 -oX nmap
+```
 #### 10.10.40.128
 
 | Port | State | Service | Version |
@@ -40,6 +43,14 @@ platform: THM
 | 21/tcp | open | *ftp* | vsftpd 3.0.3 |
 | 22/tcp | open | *ssh* | OpenSSH 7.6p1 Ubuntu 4ubuntu0.3 |
 | 80/tcp | open | *http* | Apache httpd 2.4.29 |
+
+## Website
+![[chocolateFactorySite.png]]
+
+#### Gobuster
+```bash
+sudo gobuster dir -u http://10.10.40.128 -w ~/Tools/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt
+```
 thm_room: https://tryhackme.com/room/chocolatefactory
 tags: #THM #CTF #Challenge 
 
