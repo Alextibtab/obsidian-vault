@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ecf034e019d9880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
+                "file": "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,17 +127,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5adee6bbded48c06",
+  "active": "3a988a2f8db98b6e",
   "lastOpenFiles": [
+    "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
+    "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
     "HTB Academy/HTB Modules.md",
     "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
     "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
     "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
     "Tools & Useful Things/VPN Connection Commands.md",
     "Tools & Useful Things/Terminal & Shell Customisation/zshrc configuration.md",
-    "Tools & Useful Things/links.md",
-    "Tools & Useful Things/Useful Commands.md",
-    "TryHackMe/Red Team Path/Red Team Fundamentals.md",
-    "TryHackMe/Active Directory Rooms/Active Directory Basics.md"
+    "Tools & Useful Things/links.md"
   ]
 }
