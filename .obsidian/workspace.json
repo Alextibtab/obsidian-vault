@@ -4,43 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb8909e9231c241",
+        "id": "1b0aa476771b59d8",
         "type": "tabs",
         "children": [
           {
-            "id": "7479fa63de34c908",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5adee6bbded48c06",
+            "id": "079604a592711c6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ecf034e019d9880",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
-                "mode": "source",
+                "file": "HTB Academy/HTB Modules.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tier_0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
+                "file": "HTB Academy/HTB Modules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,20 +103,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "9ecf034e019d9880",
+  "active": "079604a592711c6c",
   "lastOpenFiles": [
-    "TryHackMe/Rooms/Chocolate Factory/chocolateFactorySite.png",
-    "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
-    "Tools & Useful Things/Useful Commands.md",
-    "Tools & Useful Things/VPN Connection Commands.md",
-    "HackTheBox/Labs/Starting Point/Appointment/appointment-notes.md",
-    "HackTheBox/Labs/Lab Type.md",
+    "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
+    "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
+    "TryHackMe/Rooms/Chocolate Factory/chocolateFactorySite.png",
+    "README.md",
     "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
-    "HTB Academy/HTB Modules.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md"
+    "Tools & Useful Things/Useful Commands.md",
+    "Tools & Useful Things/VPN Connection Commands.md"
   ]
 }
