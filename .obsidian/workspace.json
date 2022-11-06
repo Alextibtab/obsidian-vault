@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1b0aa476771b59d8",
+        "id": "23aa306bfccba6f7",
         "type": "tabs",
         "children": [
           {
-            "id": "079604a592711c6c",
+            "id": "c838e33e1a16d34a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Academy/HTB Modules.md",
+                "file": "Templates/Cornell Note Template.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8373bba17054029b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Untitled.md",
+                "file": "Templates/Cornell Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8373bba17054029b",
+  "active": "c838e33e1a16d34a",
   "lastOpenFiles": [
     "HTB Academy/HTB Modules.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
+    "Templates/Cornell Note Template.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
     "HTB Academy/Tier 0 Modules/Getting Started Module.md",
-    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
     "TryHackMe/Rooms/Chocolate Factory/chocolateFactorySite.png",
     "README.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
-    "Tools & Useful Things/Useful Commands.md"
+    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md"
   ]
 }
