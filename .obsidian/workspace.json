@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Setup for Web Development.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Setup for Web Development.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +159,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "de7ef702c85cc1a5",
+  "active": "5e62b84ed0e2908d",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
@@ -169,7 +170,6 @@
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
     "Templates/Cornell Note Template.md",
     "HTB Academy/HTB Modules.md",
-    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
-    "TryHackMe/Active Directory Rooms/Active Directory Basics.md"
+    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md"
   ]
 }
