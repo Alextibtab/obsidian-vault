@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cbafa05e1612ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,17 +147,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6b011afae99a3bca",
+  "active": "4cbafa05e1612ca3",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
     "HTB Academy/Tier 0 Modules/Getting Started Module.md",
     "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
     "Templates/Cornell Note Template.md",
     "HTB Academy/HTB Modules.md",
     "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
-    "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
-    "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md"
+    "TryHackMe/Active Directory Rooms/Active Directory Basics.md"
   ]
 }
