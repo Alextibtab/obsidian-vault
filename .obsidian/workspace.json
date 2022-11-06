@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b011afae99a3bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "592755313d1e6d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Cornell Note Template.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +147,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c838e33e1a16d34a",
+  "active": "592755313d1e6d38",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+    "Templates/Cornell Note Template.md",
     "HTB Academy/HTB Modules.md",
     "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
-    "Templates/Cornell Note Template.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
     "HTB Academy/Tier 0 Modules/Getting Started Module.md",
     "TryHackMe/Active Directory Rooms/Active Directory Basics.md",
     "TryHackMe/Rooms/Chocolate Factory/chocolatefactory.md",
     "TryHackMe/Rooms/Chocolate Factory/chocolateFactorySite.png",
-    "README.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md"
+    "README.md"
   ]
 }
