@@ -95,6 +95,14 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "de7ef702c85cc1a5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 1
@@ -103,7 +111,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "079604a592711c6c",
+  "active": "3a988a2f8db98b6e",
   "lastOpenFiles": [
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
     "HTB Academy/Tier 0 Modules/Getting Started Module.md",

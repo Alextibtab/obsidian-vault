@@ -4,5 +4,9 @@
   "templater-obsidian",
   "sliding-panes-obsidian",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "calendar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-kanban",
+  "obsidian-admonition"
 ]
