@@ -62,9 +62,17 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "c0dabdd3b0928356",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -166,17 +174,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "80a5c3751e8d67f5",
+  "active": "c0dabdd3b0928356",
   "lastOpenFiles": [
+    "Web Development/Web Development Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
     "HTB Academy/Tier 0 Modules/Getting Started Module.md",
     "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-    "Templates/Cornell Note Template.md",
-    "HTB Academy/HTB Modules.md"
+    "Templates/Cornell Note Template.md"
   ]
 }
