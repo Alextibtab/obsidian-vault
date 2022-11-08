@@ -70,13 +70,25 @@
               "type": "markdown",
               "state": {
                 "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f613013f1f3d5710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +191,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "c0dabdd3b0928356",
+  "active": "f613013f1f3d5710",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/Web Development Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
     "HTB Academy/Tier 0 Modules/Getting Started Module.md",
     "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
-    "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-    "Templates/Cornell Note Template.md"
+    "HTB Academy/Tier 0 Modules/Tier 0 Modules.md"
   ]
 }
