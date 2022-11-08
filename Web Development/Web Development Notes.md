@@ -1,5 +1,5 @@
 ### The Complete 2022 Web Development Bootcamp
-[[Section Notes]]
+[[TC2022Bootcamp Notes]]
 
 
 
