@@ -86,9 +86,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35e9c9020e2fb6e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,10 +203,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f613013f1f3d5710",
+  "active": "35e9c9020e2fb6e4",
   "lastOpenFiles": [
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
     "Web Development/Web Development Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section Notes.md",
