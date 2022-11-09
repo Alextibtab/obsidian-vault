@@ -4,125 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "23aa306bfccba6f7",
+        "id": "8d42d12b013a64a0",
         "type": "tabs",
         "children": [
           {
-            "id": "c838e33e1a16d34a",
+            "id": "7f96fe9472e18e7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Cornell Note Template.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6b011afae99a3bca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "4cbafa05e1612ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e62b84ed0e2908d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80a5c3751e8d67f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "c0dabdd3b0928356",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f613013f1f3d5710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35e9c9020e2fb6e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a3bfa373c443c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/4. Structuring Text in HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df40392544c32ce2",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.jpg"
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.jpg",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "df40392544c32ce2",
+  "active": "7f96fe9472e18e7c",
   "lastOpenFiles": [
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/6. HTML Image Elements.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/5. HTML Lists.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.jpg",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.png",
+    "Templates/Cornell Note Template.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/4. Structuring Text in HTML.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.png"
   ]
 }

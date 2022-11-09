@@ -6,38 +6,9 @@
 
 # Notes
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Keywords/Questions
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Summary
-
-
-
-
 
 {related}
 {tags}
