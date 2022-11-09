@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/2. HTML Forms.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/Section 4 Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71cf093b245150b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/2. HTML Forms.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +135,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "637b2e2893f410e0",
+  "active": "71cf093b245150b4",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/Section 4 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/Section 3 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/2. HTML Forms.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/6. HTML Image Elements.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/1. HTML Tables.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/2. HTML Forms.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/Section 3 Notes.md",
-    "Excalidraw/Drawing 2022-11-09 19.18.00.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-09 19.17.02.excalidraw.md"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md"
   ]
 }
