@@ -23,12 +23,8 @@
             "id": "f520c82f9182c9cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -90,7 +86,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,11 +130,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "f520c82f9182c9cc",
+  "active": "3a988a2f8db98b6e",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/2. Inline CSS.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
     "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/Section 4 Notes.md",
     "HTB Academy/HTB Modules.md",
