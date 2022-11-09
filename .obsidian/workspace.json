@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a58c7fd1c3a5308d",
+        "id": "b831c1836849514a",
         "type": "tabs",
         "children": [
           {
-            "id": "89a81e8c75a88d08",
+            "id": "637b2e2893f410e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/1. HTML Tables.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/1. HTML Tables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "89a81e8c75a88d08",
+  "active": "637b2e2893f410e0",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2022-11-09 19.18.00.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-09 19.17.02.excalidraw.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Section 2 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/Section 3 Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/6. HTML Image Elements.md",
+    "Excalidraw/Drawing 2022-11-09 19.18.00.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-09 19.17.02.excalidraw.md",
     "Templates/Cornell Note Template.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md"
   ]
 }
