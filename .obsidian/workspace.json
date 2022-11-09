@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8d42d12b013a64a0",
+        "id": "a58c7fd1c3a5308d",
         "type": "tabs",
         "children": [
           {
-            "id": "7f96fe9472e18e7c",
+            "id": "89a81e8c75a88d08",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -122,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "7f96fe9472e18e7c",
+  "active": "89a81e8c75a88d08",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-11-09 19.18.00.excalidraw.md",
+    "Excalidraw/Drawing 2022-11-09 19.17.02.excalidraw.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/6. HTML Image Elements.md",
     "Templates/Cornell Note Template.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/2. The Anatomy of an HTML Tag.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/4. Structuring Text in HTML.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.png"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/3. HTML Boilerplate.md"
   ]
 }
