@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "fea1ac2459b695db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/7. Classes vs. IDs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f520c82f9182c9cc",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/7. Classes vs. IDs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,10 +179,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8d30b9d1f2096c46",
+  "active": "fea1ac2459b695db",
   "lastOpenFiles": [
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
     "Untitled.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
