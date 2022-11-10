@@ -26,7 +26,19 @@
               "type": "markdown",
               "state": {
                 "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c3e332c43854ae2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
+                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +155,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5060a73c225cc4ec",
+  "active": "3c3e332c43854ae2",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/2. Inline CSS.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
@@ -152,8 +166,6 @@
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/Section 4 Notes.md",
     "HTB Academy/HTB Modules.md",
     "Tools & Useful Things/links.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/Section 3 Notes.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/2. HTML Forms.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/6. HTML Image Elements.md"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/Section 3 Notes.md"
   ]
 }
