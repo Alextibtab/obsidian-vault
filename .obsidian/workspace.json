@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -170,6 +170,7 @@
   "active": "8d30b9d1f2096c46",
   "lastOpenFiles": [
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
     "Untitled.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
@@ -177,7 +178,6 @@
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
     "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/Section 4 Notes.md",
-    "HTB Academy/HTB Modules.md",
-    "Tools & Useful Things/links.md"
+    "HTB Academy/HTB Modules.md"
   ]
 }
