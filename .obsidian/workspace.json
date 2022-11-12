@@ -61,8 +61,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/7. Classes vs. IDs.md",
-                "mode": "source",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/7. Classes vs. IDs.md",
+                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,15 +181,15 @@
   },
   "active": "fea1ac2459b695db",
   "lastOpenFiles": [
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
-    "Untitled.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/2. Inline CSS.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/zshrc configuration.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
     "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/Section 4 Notes.md",
-    "HTB Academy/HTB Modules.md"
+    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Common Tools.md",
+    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
+    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
+    "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md"
   ]
 }
