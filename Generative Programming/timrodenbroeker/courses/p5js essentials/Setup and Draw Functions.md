@@ -18,7 +18,16 @@ function draw() {
 ```
 The above javascript code is the default code provided when creating a new sketch in P5.js
 
-###Set
+#### Setup
+first inside the setup function the `createCanvas()` function takes two parameters which will represent the width and height of the sketch. 
+
+#### Draw
+Once the `setup()` function has been called by the computer then the `draw()` loop will run any code inside this function will repeatedly be executed until the program is stopped.
+
+Currently, all the `draw()` function is doing is setting the background colour using the `background()` function which takes either a singular value which will then be used for the RGB components of the colour or you could pass in three parameters to customise each RGB value
+```javascript
+background(50, 100, 150);
+```
 
 # Keywords/Questions
 
