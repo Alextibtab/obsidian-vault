@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Getting Started Module.md",
+                "file": "Generative Programming/timrodenbroeker/timrodenbroeker courses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a852e1ed85ce859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fac2df98d452636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HTB Academy/Tier 0 Modules/Getting Started Module.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,17 +147,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a988a2f8db98b6e",
+  "active": "4a852e1ed85ce859",
   "lastOpenFiles": [
     "Generative Programming/timrodenbroeker/timrodenbroeker courses.md",
-    "Generative Programming/timrodenbroeker/courses/essentials course.md",
     "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
+    "Generative Programming/timrodenbroeker/courses/essentials course.md",
+    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
     "HTB Academy/HTB Modules.md",
     "Templates/Cornell Note Template.md",
     "Untitled.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/zshrc configuration.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md"
+    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md"
   ]
 }
