@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4a10e6fb980f12c3",
+        "id": "8c91ecf03affd35d",
         "type": "tabs",
         "children": [
           {
-            "id": "d93c58155953d4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generative Programming/timrodenbroeker/timrodenbroeker courses.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a852e1ed85ce859",
+            "id": "dd5a2eb34718a342",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1fac2df98d452636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4a852e1ed85ce859",
+  "active": "dd5a2eb34718a342",
   "lastOpenFiles": [
     "Generative Programming/timrodenbroeker/timrodenbroeker courses.md",
-    "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
-    "Generative Programming/timrodenbroeker/courses/essentials course.md",
-    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
-    "HTB Academy/HTB Modules.md",
-    "Templates/Cornell Note Template.md",
-    "Untitled.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/1. Setup for Web Development.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/1. HTML Tables.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 3 - Intermediate HTML/2. HTML Forms.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/1. Introduction to CSS.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/TC2022Bootcamp Notes.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md"
   ]
 }
