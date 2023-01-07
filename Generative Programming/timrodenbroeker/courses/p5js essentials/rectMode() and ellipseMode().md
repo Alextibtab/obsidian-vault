@@ -5,7 +5,9 @@
 
 
 # Notes
+Rectangles and ellipses vary in the way they get positioned on the canvas: Ellipses initially align centered, but rectangles get aligned in the top left corner of the position you set.
 
+This behaviour can be changed with the `rectMode()`
 # Keywords/Questions
 
 # Summary
