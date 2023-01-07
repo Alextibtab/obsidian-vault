@@ -33,9 +33,13 @@ These functions will only affect the shape if executed before drawing the shape 
 
 # Keywords/Questions
 `stroke()`
-`noStroke`
+`noStroke()`
+`strokeWeight()`
+`fill()`
+`noFill()`
+
 # Summary
+How to style shapes
 
-
-{related}
-{tags}
+Related: [[essentials course]]
+Tags: #generativeProgramming #timrodenbroeker 

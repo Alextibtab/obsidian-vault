@@ -30,9 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f7f6a2627ded691",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +98,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,17 +142,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3277ac8ff7c2e01d",
+  "active": "3a988a2f8db98b6e",
   "lastOpenFiles": [
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.png",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/rectMode() and ellipseMode().md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/7. Classes vs. IDs.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/7. HTML Links and Anchor Tags.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/5. HTML Lists.md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Basic Geometry.md",
-    "Generative Programming/timrodenbroeker/timrodenbroeker courses.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 1 - Front-End Web Development/Section 1 Notes.md"
+    "Generative Programming/timrodenbroeker/timrodenbroeker courses.md"
   ]
 }
