@@ -4,79 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ae0a1a8af307148e",
+        "id": "4a10e6fb980f12c3",
         "type": "tabs",
         "children": [
           {
-            "id": "c3c23bb9a9fc0c7b",
+            "id": "d93c58155953d4b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/3. Internal CSS.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5060a73c225cc4ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/4. External CSS.md",
+                "file": "HTB Academy/Tier 0 Modules/Getting Started Module.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "3c3e332c43854ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/5. The Anatomy of CSS Syntax.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d30b9d1f2096c46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fea1ac2459b695db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f520c82f9182c9cc",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
+                "file": "HTB Academy/Tier 0 Modules/Getting Started Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fea1ac2459b695db",
+  "active": "3a988a2f8db98b6e",
   "lastOpenFiles": [
-    "Tools & Useful Things/Terminal & Shell Customisation/zshrc configuration.md",
+    "Generative Programming/timrodenbroeker/timrodenbroeker courses.md",
+    "Generative Programming/timrodenbroeker/courses/essentials course.md",
+    "HTB Academy/Tier 0 Modules/Tier 0 Modules.md",
+    "HTB Academy/HTB Modules.md",
+    "Templates/Cornell Note Template.md",
+    "Untitled.md",
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
     "Tools & Useful Things/Terminal & Shell Customisation/tmux-learning.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/oh-my-posh.md",
-    "Tools & Useful Things/Terminal & Shell Customisation/kitty terminal.md",
-    "HTB Academy/Tier 0 Modules/Getting Started/Common Tools.md",
-    "HTB Academy/Tier 0 Modules/Getting Started/Basic Tools.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals Module.md",
-    "HTB Academy/Tier 0 Modules/Getting Started Module.md",
-    "HTB Academy/Tier 0 Modules/Linux Fundamentals/User Management.md"
+    "Tools & Useful Things/Terminal & Shell Customisation/zshrc configuration.md",
+    "Tools & Useful Things/Terminal & Shell Customisation/starship-prompt.md"
   ]
 }
