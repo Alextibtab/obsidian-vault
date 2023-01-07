@@ -28,10 +28,17 @@ Currently, all the `draw()` function is doing is setting the background colour u
 ```javascript
 background(50, 100, 150);
 ```
+Also note because this is inside the `draw()` function the screen is repeatedly being coloured in each time `draw()` is called this is useful if we're updating the positions of objects that move inside the sketch if we didn't first clear the background then the objects would appear to smear across the screen. 
 
+ps. background can take RGBA parameters as well to specify transparency
 # Keywords/Questions
+`setup()`
+`draw()`
+`createCanvas()`
+`background()`
 
 # Summary
+Every P5.js has the same base structure a `setup()` function that is initially ran to configure the sketch and then a `draw()` function which will keep being called until the program is suspended.
 
-{related}
-{tags}
+related: [[essentials course]]
+tags: #generativeProgramming #timrodenbroeker 
