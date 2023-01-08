@@ -29,8 +29,11 @@ scale(0.5); // scale object to 50%
 
 # Keywords/Questions
 `translate()`
-``
+`rotate()`
+`radians()`
+`scale()`
 # Summary
+How to move, scale and rotate shapes in processing.
 
-Related:
-Tags: 
+Related: [[essentials course]]
+Tags: #generativeProgramming #timrodenbroeker 
