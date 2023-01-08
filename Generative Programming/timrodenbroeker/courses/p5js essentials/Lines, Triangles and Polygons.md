@@ -18,8 +18,12 @@ To draw more complex shapes there is the following functions `beginShape()`, `ve
 # Keywords/Questions
 `line()`
 `triangle()`
-
+`beginShape()`
+`vertex()`
+`curveVertex()`
+`endShape()`
 # Summary
+How to draw lines, triangles and custom complex shapes.
 
 {related}
 {tags}
