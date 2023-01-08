@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Waves.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/push() and pop().md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Waves.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/push() and pop().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,15 +150,15 @@
   },
   "active": "3f763bf9befa45fb",
   "lastOpenFiles": [
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/push() and pop().md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Transformations.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Transformations.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Waves.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/push() and pop().md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Randomness.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
     "Templates/Cornell Note Template.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/rectMode() and ellipseMode().md"
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md"
   ]
 }
