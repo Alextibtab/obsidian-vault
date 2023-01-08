@@ -13,50 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3277ac8ff7c2e01d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f7f6a2627ded691",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68971ac3cac722a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,12 +135,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "68971ac3cac722a7",
+  "active": "dd5a2eb34718a342",
   "lastOpenFiles": [
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/rectMode() and ellipseMode().md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/rectMode() and ellipseMode().md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Dale_Nell_Lewis_John_-_Computer_Science_Illuminated_2019_Jones_and_Bartlett_Publishers_Inc_-_libgen.li.pdf",

@@ -25,5 +25,5 @@ To draw more complex shapes there is the following functions `beginShape()`, `ve
 # Summary
 How to draw lines, triangles and custom complex shapes.
 
-{related}
-{tags}
+Related:  [[essentials course]] 
+Tags: #generativeProgramming #timrodenbroeker 
