@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8c91ecf03affd35d",
+        "id": "9f07977ed00adbdb",
         "type": "tabs",
         "children": [
           {
-            "id": "dd5a2eb34718a342",
+            "id": "16713d89adba5526",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -135,11 +135,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "dd5a2eb34718a342",
+  "active": "16713d89adba5526",
   "lastOpenFiles": [
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
     "Templates/Cornell Note Template.md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
