@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f763bf9befa45fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Waves.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/push() and pop().md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +148,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "16713d89adba5526",
+  "active": "3f763bf9befa45fb",
   "lastOpenFiles": [
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Transformations.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/push() and pop().md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Transformations.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Randomness.md",
