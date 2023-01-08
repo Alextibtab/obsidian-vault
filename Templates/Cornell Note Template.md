@@ -10,5 +10,5 @@
 
 # Summary
 
-{related}
-{tags}
+Related:
+Tags: 

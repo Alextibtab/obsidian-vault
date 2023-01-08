@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
+                "file": "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,15 +137,15 @@
   },
   "active": "dd5a2eb34718a342",
   "lastOpenFiles": [
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
+    "Templates/Cornell Note Template.md",
+    "Generative Programming/timrodenbroeker/courses/p5js essentials/Mouse Interaction.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Setup and Draw Functions.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Styling Shapes with Stroke and Fill.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/Lines, Triangles and Polygons.md",
     "Generative Programming/timrodenbroeker/courses/p5js essentials/rectMode() and ellipseMode().md",
-    "Generative Programming/timrodenbroeker/courses/p5js essentials/Geometric Typograhpy.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/1. Introduction to HTML.md",
     "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/Dale_Nell_Lewis_John_-_Computer_Science_Illuminated_2019_Jones_and_Bartlett_Publishers_Inc_-_libgen.li.pdf",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.png",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/6. CSS Selectors.md",
-    "Web Development/The Complete 2022 Web Development Bootcamp/Section 4 - Introduction to CSS/7. Classes vs. IDs.md"
+    "Web Development/The Complete 2022 Web Development Bootcamp/Section 2 - Introduction to HTML/bird.png"
   ]
 }
