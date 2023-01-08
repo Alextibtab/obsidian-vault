@@ -29,9 +29,10 @@ If instead you want to query whether the mouse is being pressed inside the draw 
 `mouseX`
 `mouseY`
 `mouseIsPressed`
-`m`
-
+`mousePressed()`
+`mouseReleased()`
 # Summary
+Some variables and functions that can be used to query where the mouse is and if the user is clicking the mouse.
 
 Related: [[essentials course]]
 Tags: #generativeProgramming #timrodenbroeker 
