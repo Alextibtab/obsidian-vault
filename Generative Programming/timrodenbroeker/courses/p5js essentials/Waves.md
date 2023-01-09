@@ -24,8 +24,9 @@ function draw() {
 
 
 # Keywords/Questions
-
+`sin()`
+`tan()`
 # Summary
 
-Related:
-Tags: 
+Related: [[essentials course]]
+Tags: #generativeProgramming #timrodenbroeker 
